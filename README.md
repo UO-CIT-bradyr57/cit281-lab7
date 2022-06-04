@@ -14,7 +14,8 @@ I learned how to create an organization on GitHub and the features of a reposito
 
 ### Sample Code from Project
 
-Below is some sample code from the project, that highlights the main points and functions associated with it. 
+Below is some sample code from the project that highlights the main points and functions associated with it. 
 
+![git-lab7](https://user-images.githubusercontent.com/105069118/171968608-991eb6a8-ac44-4999-aabe-b042afefed17.png)
 
 ### [Back to the Home Page](http://uo-cit-bradyr57.github.io/bradyr57.github.io/)
